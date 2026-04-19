@@ -1,0 +1,12 @@
+Model Evaluation
+MAE: 273985.36
+RMSE: 323812.76
+R2 Score: -9.8209
+
+Predictions vs Actual
+  Actual  Predicted
+339147.0  244172.14
+512400.0  439484.29
+643746.0  237176.64
+542493.0   25902.10
+489723.0  210847.04
